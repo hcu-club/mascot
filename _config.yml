@@ -1,0 +1,8 @@
+title: Mascot
+description: プログラミング同好会のマスコットキャラクターを決めよう
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
